@@ -19,10 +19,10 @@ import io.cucumber.testng.CucumberOptions;
         "junit:target/CucumberRunnerIT.xml"
 }, features =
         {
-                "src/test/resources/features/PetStore/Pets/add_pet_api.feature"
+                "src/test/resources/features/PetStore/Pets/update_pet_api.feature"
         },
         glue = "classpath:ara.teralco.PetStore.PetStoreBackend.glue")
-public class AddPetIT extends BaseGTest {
 
+public class UpdatePetIT extends BaseGTest {
 
 }

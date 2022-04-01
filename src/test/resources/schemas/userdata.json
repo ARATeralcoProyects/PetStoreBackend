@@ -1,9 +1,9 @@
 {
-  "username": "string",
-  "firstName": "string",
-  "lastName": "string",
-  "email": "string",
+  "username": "Hardwell",
+  "firstName": "Robert",
+  "lastName": "Corput",
+  "email": "string@string.com",
   "password": "string",
-  "phone": "string",
+  "phone": "659874236",
   "userStatus": 0
 }
